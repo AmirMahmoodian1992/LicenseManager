@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LicenseManager", "LicenseManager\LicenseManager.csproj", "{E1C8DA8A-A6D2-4371-B00C-EECF332C81D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test Licence Manager Apis", "..\Test Licence Manager Apis\Test Licence Manager Apis\Test Licence Manager Apis.csproj", "{7D6FC0AC-B8B4-4770-85D9-8C0EA1742D49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1C8DA8A-A6D2-4371-B00C-EECF332C81D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1C8DA8A-A6D2-4371-B00C-EECF332C81D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1C8DA8A-A6D2-4371-B00C-EECF332C81D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1C8DA8A-A6D2-4371-B00C-EECF332C81D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D6FC0AC-B8B4-4770-85D9-8C0EA1742D49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D6FC0AC-B8B4-4770-85D9-8C0EA1742D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D6FC0AC-B8B4-4770-85D9-8C0EA1742D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D6FC0AC-B8B4-4770-85D9-8C0EA1742D49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D169309C-3CA8-4D16-B331-1C39A2982ECD}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs2:8080/barsa
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = LicenseManager\\LicenseManager.csproj
+		SccProjectName1 = LicenseManager
+		SccLocalPath1 = LicenseManager
+		SccProjectUniqueName2 = ..\\Test\u0020Licence\u0020Manager\u0020Apis\\Test\u0020Licence\u0020Manager\u0020Apis\\Test\u0020Licence\u0020Manager\u0020Apis.csproj
+		SccProjectName2 = ../Test\u0020Licence\u0020Manager\u0020Apis/Test\u0020Licence\u0020Manager\u0020Apis
+		SccLocalPath2 = ..\\Test\u0020Licence\u0020Manager\u0020Apis\\Test\u0020Licence\u0020Manager\u0020Apis
+	EndGlobalSection
+EndGlobal
